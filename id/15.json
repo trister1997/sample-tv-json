@@ -1,0 +1,16 @@
+{
+    "id": 15,
+    "title": "The World at War",
+    "rating": 9.1,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BYzExN2NhZDctOWEzMy00NzYwLTg3MDktNjYyNTQyOWY4MGYwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR6,0,182,268_AL_.jpg",
+    "year": 1973,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt0071075/",
+    "rated": "TV-PG",
+    "genres": [
+        "Documentary",
+        "History",
+        "War"
+    ],
+    "description": "A groundbreaking 26-part documentary series narrated by the actor Laurence Olivier about the deadliest conflict in history, World War II."
+}

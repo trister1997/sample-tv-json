@@ -1,0 +1,14 @@
+{
+    "id": 8,
+    "title": "Our Planet",
+    "rating": 9.3,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BN2I1ZjA5YjQtYmQ0ZS00ZmE1LTk1ZjktNTQ5ODIzY2JiZDdhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "year": 2019,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt9253866/",
+    "rated": "TV-G",
+    "genres": [
+        "Documentary"
+    ],
+    "description": "Documentary series focusing on the breadth of the diversity of habitats around the world, from the remote Arctic wilderness and mysterious deep oceans to the vast landscapes of Africa and diverse jungles of South America."
+}

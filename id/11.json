@@ -1,0 +1,16 @@
+{
+    "id": 11,
+    "title": "Avatar: The Last Airbender",
+    "rating": 9.2,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "year": 2005,
+    "seasons": 3,
+    "imdb_link": "https://www.imdb.com/title/tt0417299/",
+    "rated": "TV-Y7-FV",
+    "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+    ],
+    "description": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world."
+}

@@ -1,0 +1,14 @@
+{
+    "id": 9,
+    "title": "Cosmos: A Spacetime Odyssey",
+    "rating": 9.2,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BZTk5OTQyZjYtMDk3Yy00YjhmLWE2MTYtZmY4NTg1YWUzZTQ0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "year": 2014,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt2395695/",
+    "rated": "TV-PG",
+    "genres": [
+        "Documentary"
+    ],
+    "description": "An exploration of our discovery of the laws of nature and coordinates in space and time."
+}

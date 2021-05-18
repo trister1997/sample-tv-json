@@ -1,0 +1,16 @@
+{
+    "id": 20,
+    "title": "The Vietnam War",
+    "rating": 9.0,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BYWQ4ZGFhYmUtNDVhNC00N2VkLWIzYTQtOTk5ZTI1NWU2YjNlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR9,0,182,268_AL_.jpg",
+    "year": 2017,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt1877514/",
+    "rated": "TV-MA",
+    "genres": [
+        "Documentary",
+        "History",
+        "War"
+    ],
+    "description": "A comprehensive history of the United States' involvement in the bitterly divisive armed conflict in Southeast Asia."
+}

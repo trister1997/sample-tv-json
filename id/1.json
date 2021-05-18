@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "title": "Planet Earth II",
+    "rating": 9.5,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BZWYxODViMGYtMGE2ZC00ZGQ3LThhMWUtYTVkNGE3OWU4NWRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_.jpg",
+    "year": 2016,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt5491994/",
+    "rated": "TV-G",
+    "genres": [
+        "Documentary"
+    ],
+    "description": "Wildlife documentary series with David Attenborough, beginning with a look at the remote islands which offer sanctuary to some of the planet's rarest creatures, to the beauty of cities, which are home to humans, and animals.."
+}

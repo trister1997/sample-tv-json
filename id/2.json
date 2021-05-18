@@ -1,0 +1,14 @@
+{
+    "id": 2,
+    "title": "Planet Earth",
+    "rating": 9.4,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BNmZlYzIzMTItY2EzYS00YTEyLTg0ZjEtMDMzZjM3ODdhN2UzXkEyXkFqcGdeQXVyNjI0MDg2NzE@._V1_.jpg",
+    "year": 2006,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt0795176/",
+    "rated": "TV-PG",
+    "genres": [
+        "Documentary"
+    ],
+    "description": "Emmy Award-winning, 11 episodes, five years in the making, the most expensive nature documentary series ever commissioned by the BBC, and the first to be filmed in high definition."
+}

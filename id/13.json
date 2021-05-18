@@ -1,0 +1,15 @@
+{
+    "id": 13,
+    "title": "The Sopranos",
+    "rating": 9.2,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg",
+    "year": 1999,
+    "seasons": 6,
+    "imdb_link": "https://www.imdb.com/title/tt0141842/",
+    "rated": "TV-MA",
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "description": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling."
+}

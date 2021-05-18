@@ -1,0 +1,16 @@
+{
+    "id": 6,
+    "title": "The Wire",
+    "rating": 9.3,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BNTllYzFhMjAtZjExNS00MjM4LWE5YmMtOGFiZGRlOTU5YzJiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "year": 2002,
+    "seasons": 5,
+    "imdb_link": "https://www.imdb.com/title/tt0306414/",
+    "rated": "TV-MA",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "description": "The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement."
+}

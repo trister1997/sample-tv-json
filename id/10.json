@@ -1,0 +1,14 @@
+{
+    "id": 10,
+    "title": "Cosmos",
+    "rating": 9.2,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BMTY4MGQyNjgtMzdmZS00MjQ5LWIyMzItYjYyZmQzNjVhYjMyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR5,0,182,268_AL_.jpg",
+    "year": 1980,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt0081846/",
+    "rated": "TV-PG",
+    "genres": [
+        "Documentary"
+    ],
+    "description": "Astronomer Carl Sagan leads us on an engaging guided tour of the various elements and cosmological theories of the universe."
+}

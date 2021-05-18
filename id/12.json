@@ -1,0 +1,16 @@
+{
+    "id": 12,
+    "title": "Game of Thrones",
+    "rating": 9.2,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY268_CR7,0,182,268_AL_.jpg",
+    "year": 2011,
+    "seasons": 8,
+    "imdb_link": "https://www.imdb.com/title/tt0944947/",
+    "rated": "TV-MA",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia."
+}

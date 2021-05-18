@@ -1,0 +1,16 @@
+{
+    "id": 16,
+    "title": "The Last Dance",
+    "rating": 9.1,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BY2U1ZTU4OWItNGU2MC00MTg1LTk4NzUtYTk3ODhjYjI0MzlmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "year": 2020,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt8420184/",
+    "rated": "TV-MA",
+    "genres": [
+        "Documentary",
+        "Biography",
+        "History"
+    ],
+    "description": "Charting the rise of the 1990's Chicago Bulls, led by Michael Jordan, one of the most notable dynasties in sports history."
+}

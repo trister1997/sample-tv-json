@@ -1,0 +1,16 @@
+{
+    "id": 19,
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "rating": 9.1,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR4,0,182,268_AL_.jpg",
+    "year": 2009,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt1355642/",
+    "rated": "TV-14",
+    "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+    ],
+    "description": "Two brothers search for a Philosopher's Stone after an attempt to revive their deceased mother goes awry and leaves them in damaged physical forms."
+}

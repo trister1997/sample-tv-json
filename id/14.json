@@ -1,0 +1,16 @@
+{
+    "id": 14,
+    "title": "Rick and Morty",
+    "rating": 9.2,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "year": 2013,
+    "seasons": 5,
+    "imdb_link": "https://www.imdb.com/title/tt2861424/",
+    "rated": "TV-MA",
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "description": "An animated series that follows the exploits of a super scientist and his not-so-bright grandson."
+}

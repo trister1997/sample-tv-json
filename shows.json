@@ -1,0 +1,180 @@
+[{
+    "id": 1,
+    "title": "Planet Earth II",
+    "rating": 9.5,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BZWYxODViMGYtMGE2ZC00ZGQ3LThhMWUtYTVkNGE3OWU4NWRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_.jpg",
+    "year": 2016,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt5491994/"
+},
+{
+    "id": 2,
+    "title": "Planet Earth",
+    "rating": 9.4,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BNmZlYzIzMTItY2EzYS00YTEyLTg0ZjEtMDMzZjM3ODdhN2UzXkEyXkFqcGdeQXVyNjI0MDg2NzE@._V1_.jpg",
+    "year": 2006,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt0795176/"
+},
+{
+    "id": 3,
+    "title": "Band of Brothers",
+    "rating": 9.4,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "year": 2001,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt0185906/"
+},
+{
+    "id": 4,
+    "title": "Breaking Bad",
+    "rating": 9.4,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR5,0,182,268_AL_.jpg",
+    "year": 2008,
+    "seasons": 5,
+    "imdb_link": "https://www.imdb.com/title/tt0903747/"
+},
+{
+    "id": 5,
+    "title": "Chernobyl",
+    "rating": 9.4,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "year": 2019,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt7366338/"
+},
+{
+    "id": 6,
+    "title": "The Wire",
+    "rating": 9.3,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BNTllYzFhMjAtZjExNS00MjM4LWE5YmMtOGFiZGRlOTU5YzJiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "year": 2002,
+    "seasons": 5,
+    "imdb_link": "https://www.imdb.com/title/tt0306414/"
+},
+{
+    "id": 7,
+    "title": "Blue Planet II",
+    "rating": 9.3,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BYjg2ODk0MjUtNmMzZS00MjY0LWI1YWMtN2JhMjRmZGUwY2I3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR4,0,182,268_AL_.jpg",
+    "year": 2017,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt6769208/"
+},
+{
+    "id": 8,
+    "title": "Our Planet",
+    "rating": 9.3,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BN2I1ZjA5YjQtYmQ0ZS00ZmE1LTk1ZjktNTQ5ODIzY2JiZDdhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "year": 2019,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt9253866/"
+},
+{
+    "id": 9,
+    "title": "Cosmos: A Spacetime Odyssey",
+    "rating": 9.2,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BZTk5OTQyZjYtMDk3Yy00YjhmLWE2MTYtZmY4NTg1YWUzZTQ0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "year": 2014,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt2395695/"
+},
+{
+    "id": 10,
+    "title": "Cosmos",
+    "rating": 9.2,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BMTY4MGQyNjgtMzdmZS00MjQ5LWIyMzItYjYyZmQzNjVhYjMyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR5,0,182,268_AL_.jpg",
+    "year": 1980,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt0081846/"
+},
+{
+    "id": 11,
+    "title": "Avatar: The Last Airbender",
+    "rating": 9.2,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "year": 2005,
+    "seasons": 3,
+    "imdb_link": "https://www.imdb.com/title/tt0417299/"
+},
+{
+    "id": 12,
+    "title": "Game of Thrones",
+    "rating": 9.2,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY268_CR7,0,182,268_AL_.jpg",
+    "year": 2011,
+    "seasons": 8,
+    "imdb_link": "https://www.imdb.com/title/tt0944947/"
+},
+{
+    "id": 13,
+    "title": "The Sopranos",
+    "rating": 9.2,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg",
+    "year": 1999,
+    "seasons": 6,
+    "imdb_link": "https://www.imdb.com/title/tt0141842/"
+},
+{
+    "id": 14,
+    "title": "Rick and Morty",
+    "rating": 9.2,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "year": 2013,
+    "seasons": 5,
+    "imdb_link": "https://www.imdb.com/title/tt2861424/"
+},
+{
+    "id": 15,
+    "title": "The World at War",
+    "rating": 9.1,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BYzExN2NhZDctOWEzMy00NzYwLTg3MDktNjYyNTQyOWY4MGYwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR6,0,182,268_AL_.jpg",
+    "year": 1973,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt0071075/"
+},
+{
+    "id": 16,
+    "title": "The Last Dance",
+    "rating": 9.1,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BY2U1ZTU4OWItNGU2MC00MTg1LTk4NzUtYTk3ODhjYjI0MzlmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "year": 2020,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt8420184/"
+},
+{
+    "id": 17,
+    "title": "Life",
+    "rating": 9.1,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BNjJhMTAxZjYtNWZkYy00Nzg1LTlkYjItZTNhZWRjNzkxMDg3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR3,0,182,268_AL_.jpg",
+    "year": 2009,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt1533395/"
+},
+{
+    "id": 18,
+    "title": "Scam 1992: The Harshad Mehta Story",
+    "rating": 9.1,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BNjgxZTMxNmQtZGFkZS00NDUyLTllMzYtOTE0ZjdlMjM1ZWU0XkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "year": 2020,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt12392504/"
+},
+{
+    "id": 19,
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "rating": 9.1,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR4,0,182,268_AL_.jpg",
+    "year": 2009,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt1355642/"
+},
+{
+    "id": 20,
+    "title": "The Vietnam War",
+    "rating": 9.0,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BYWQ4ZGFhYmUtNDVhNC00N2VkLWIzYTQtOTk5ZTI1NWU2YjNlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR9,0,182,268_AL_.jpg",
+    "year": 2017,
+    "seasons": 1,
+    "imdb_link": "https://www.imdb.com/title/tt1877514/"
+}]

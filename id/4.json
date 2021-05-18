@@ -1,0 +1,16 @@
+{
+    "id": 4,
+    "title": "Breaking Bad",
+    "rating": 9.4,
+    "cover_photo": "https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR5,0,182,268_AL_.jpg",
+    "year": 2008,
+    "seasons": 5,
+    "imdb_link": "https://www.imdb.com/title/tt0903747/",
+    "rated": "TV-MA",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future."
+}
